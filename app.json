@@ -1,6 +1,6 @@
 {
     "name": "Queen Amdi 3.6.2v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "description": "Cozmo Bot is a chat bot for WhatsApp.",
     "keywords": [
         "Queen Amdi",
         "WhatsApp",
@@ -9,8 +9,8 @@
         "Button bot",
         "Black Amda"
     ],
-    "website": "https://amdaniwasa.com",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "website": "https://slcricketone.blogspot.com/?m=1",
+    "logo": "https://telegra.ph/file/598cbcc62041d182ba93a.jpg",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
